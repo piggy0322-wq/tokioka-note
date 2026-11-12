@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://piggy0322-wq.github.io/tokioka-note/sitemap.xml
